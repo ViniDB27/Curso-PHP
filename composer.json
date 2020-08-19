@@ -1,9 +1,9 @@
 {
-    "name": "hcodebr/ecommerce",
+    "name": "vinidb27/ecommerce",
     "authors": [
         {
-            "name": "Hcode Treinamentos",
-            "email": "suporte@hcode.com.br"
+            "name": "Vinicio Brejinski",
+            "email": "viniciosdb@gmail.com"
         }
     ],
     "require": {
